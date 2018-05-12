@@ -1,0 +1,32 @@
+_repo: Le-registre-d--crou-de-la-Bastille-de-1782---1789Extrait-de-la-Nouvelle-Revue-du-1er-d-cembre__35315
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bégis, A. (Alfred)
+    aliases:
+    - Begis, A. (Alfred)
+    - Bégis, Alfred
+    birthdate: 1829
+    deathdate: 1904
+    gutenberg_agent_id: '37592'
+    url: http://www.gutenberg.org/2009/agents/37592
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35315'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Bastille'
+title: 'Le registre d''écrou de la Bastille de 1782 à 1789
+
+  Extrait de la Nouvelle Revue du 1er décembre 1880'
+url: http://www.gutenberg.org/ebooks/35315
